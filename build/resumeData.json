@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name": "Peter Shaker",
+    "occupation": "Cairo",
+    "description": "A Continous self-Learner. Building state-of-the-art, easy to use, user friendly Web-Apps is truly a passion of mine. I actively seek out new technologies, and stay up-to-date on industry trends and advancements.",
+    "image": "profilepic.jpg",
+    "bio": "With 5+ years of hands-on experience efficiently coding web sites and applications using modern HTML5, CSS3, and Object-Oriented / functional JavaScript programming , In addition to Solid Knowledge of JavaScript frameworks like Angular , VueJS & ReactJS and other responsive design frameworks like (Bootstrap , Foundation ) along with CSS preprocessors ( {Less} & Sass) and managing all those with the great bundlers and task runners like ( WebPack , grunt & Gulp) .",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "peters.shaker@gmail.com",
+    "phone": "+201224483365",
+    "address": {
+      "street": "Mohamed Massoud - Shoubra ",
+      "city": "Cairo",
+      "state": ", Egypt",
+      "zip": "11231"
+    },
+    "website": "https://www.linkedin.com/in/petersshaker/",
+    "resumedownload": "https://www.dropbox.com/s/0mqg9h4tw4xmzlq/Peter%20Samir%20-%20Senior%20Front%20End%20Engineer-%202%20.pdf?dl=0",
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/Peters.Shaker",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Peter_S_Shaker",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://googleplus.com/",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/petersshaker/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/EngPeterShaker",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "peters_eng@hotmail.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [{
+        "school": "Engineering / Ain shams",
+        "degree": "Bachelor of Engineering (B.E.)",
+        "graduated": "July 2013",
+        "description": "Computer and Systems Engineering"
+      },
+      {
+        "school": "Patriarchal college at cairo",
+        "degree": "High School",
+        "graduated": "July 2008",
+        "description": ""
+      }
+    ],
+    "work": [{
+        "company": "Mondia Group, GMBH",
+        "title": "Senior Frontend Developer",
+        "years": "Apr 2018 - Present",
+        "description": "I Contributed in many company’s project specially for world-wide Telecom Companies using (Node.js ,Hapi.js & Angular 5, Typescript ). "
+      },
+      {
+        "company": "ITWORX",
+        "title": "Senior Frontend Developer",
+        "years": "Sep 2017 - Apr 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Trendak",
+        "title": "Senior Frontend Developer",
+        "years": "Sep 2017 - Apr 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Retailyze",
+        "title": "Frontend Developer",
+        "years": "Aug 2016 - Oct 2017",
+        "description": "Responsible for the company social media web app specialized in data Visualization and live streaming , using ( Angular , Vue.js , WebPack , HighCharts )"
+      },
+      {
+        "company": "Vision Valley , Cairo",
+        "title": "Frontend Developer",
+        "years": "Jan 2016 - Aug 2016",
+        "description": "Responsible for the company web Application specialized in Data Visualization using (AngularJs , D3.js ,Heatmap.js )"
+      }
+    ],
+    "skills": [{
+        "name": "Angular",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "80%"
+      },
+      {
+        "name": "Rx",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "VueJs",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "I worked with Peter in the graduation project , A brain tablet interface and from our experience with him I can say that he's a very passionate person in work, very eager to learn, fighter in increasing his skills and challenge himself with new tasks and responsibilities. From the personnel side, Peter is a very selfless person, team player and actually extremely friendly and working with him was really fun",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
