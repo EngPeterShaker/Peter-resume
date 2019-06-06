@@ -1,0 +1,71 @@
+import Zoom from 'react-reveal/Zoom';
+import React, { Component } from 'react';
+import '../style/main.css'
+class Scrolling extends Component {
+  render() {
+
+  const longDiv = {
+    margin: '40px',
+    height : '50em',
+    border: '5px solid pink'
+  };
+    return (
+      <>
+      fdsfdfds
+      <div style={longDiv}>
+
+      <Zoom>
+         <p>Markup that will be revealed on scroll</p>
+      </Zoom>
+      </div>
+      <Zoom>
+         <p>Markup that will be revealed on scroll</p>
+      </Zoom>
+
+
+
+<div className="timeline">
+  <div className="container left">
+    <div className="content">
+      <h2>2017</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div className="container right">
+    <div className="content">
+      <h2>2016</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div className="container left">
+    <div className="content">
+      <h2>2015</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div className="container right">
+    <div className="content">
+      <h2>2012</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div className="container left">
+    <div className="content">
+      <h2>2011</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div className="container right">
+    <div className="content">
+      <h2>2007</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+</div>
+
+      </>
+    );
+  }
+}
+
+export default Scrolling;
